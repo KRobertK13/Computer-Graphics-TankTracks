@@ -4,4 +4,3 @@ A program egy tank két lánctalpát jeleníti meg, amelyeket két botkormánnya
 
 ![lanctalp](https://github.com/KRobertK13/Computer-Graphics-TankTracks/assets/102753849/37e67808-3269-459f-9351-701c7819e4f5)
 
-ezgif-5-b0d7204ed2.gif
